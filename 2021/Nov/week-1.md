@@ -2,7 +2,7 @@
 
 ### Team Awareness Meeting
 
-<img src="./2021/Nov/assets/img/logo.jpg" alt="logo" style="zoom: 20%;" />
+<img src="/news/2021/Nov/assets/img/logo.jpg" alt="logo" style="zoom: 20%;" />
 
 - All Team Heads has been introduced to all the Team Members.
 
