@@ -1,11 +1,10 @@
 ## Entry Level Training Program 2021
+
 ### Inaguration program 
 - The Gcescoderz club was inagurated by Mrs.P.Vanitha Muthu (HOD of CSE Dept.) and DR.S.Nagarajan incharge of the club.
 - This club was started for the welfare of students to explore their knowledge and thoughts for their future world.
 
 ### Team Awareness Meeting
-
-<img src="/news/2021/Nov/assets/img/logo.jpg" alt="logo" style="zoom: 20%;" />
 
 - All Team Heads has been introduced to all the Team Members.
 
@@ -18,7 +17,7 @@
 -	All Members of the Club were asked to offer minimum 5 Hrs in a week for the Club and they were requested to have Consistency and Passion towards the Club Activities.
 -	All Members were given an opportunity to unenroll from the club, if they were uncomfortable.
 -	All Members must provide articles for the Club in a circular manner.
--	
+
  ### Team Officials
 - Student overall Head and cloud computing Head-T.Saran Mahadev
 - student Event co-ordinator - S.Gavaskar
