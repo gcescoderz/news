@@ -33,7 +33,7 @@
 - Web Development Head - S.Vignesh
 - Data Science Head - N.Ajith
 - Hacking and Pentesting Head - A.Rajkumar
-- Newsletter Head - P.Sachin Siyam
+- Newsletter Head - S.Tamil Arasu
 - Blogging Head - B.Reshma
 - Competitive Programming Head - S.Kowsalya
 - Elegance of Pentesting Head - K.Pavithra
