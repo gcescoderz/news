@@ -1,4 +1,0 @@
-### Archive
-
-# Example Archive
-
