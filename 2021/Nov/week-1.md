@@ -37,7 +37,7 @@
 - Blogging Head - B.Reshma
 - Competitive Programming Head - S.Kowsalya
 - Elegance of Pentesting Head - K.Pavithra
-- Industrialism Head - S.NIranjana
+- Industrialism Head - S.Niranjana
 
 
 
