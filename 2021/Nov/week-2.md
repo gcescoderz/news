@@ -1,8 +1,8 @@
-##ISSUE 112021-02
+### ISSUE 112021-02
 
-### ##TEAM MEETING:
+### TEAM MEETING:
 
-<img src="" alt="logo" />
+<img src="https://i.imgur.com/Z1qhJs2.jpg" alt="meeting image " style="zoom:40%;" />
 
 - All team Heads are conducted the  meeting with their team Members with help of Event Co-Ordinator Gavaskar. S.
 - The Club Head  Saran Mahadev T monitored  the events.
@@ -16,7 +16,7 @@
 - Hacking and Pentesting team,AI team,App Development team meetings also conducted by the respective team  Heads with their team Members and team head  gave first week work to the members.
 - All team Members started  learning for first week work.
 
-### ##WEEKLY TASK:
+###  WEEKLY TASK:
 
 - AI team Head gave a weekly task(Create a Registration Form using python)to the Members. The team Members created a form and submitted the form.
 - Web Development team Members created a Counselling Form using HTML. And they handover the forms to their team Head.
@@ -24,9 +24,9 @@
 
 
 
-### ##Github Introduction Workshop:
+### Github Introduction Workshop:
 
-<img src="" alt="logo" />
+<img src="https://i.imgur.com/lt1Kfhn.jpg" alt="github intro" style="zoom:35%;" />
 
 - This workshop conducted on Nov 12,2021 by Club Head  Saran Mahadev .T  through Google Meet.
 - He explained about Basic of Github,how to use Github ,basic comments in Github with online demonstrations  and examples.
