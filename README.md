@@ -17,3 +17,5 @@ Welcome to GCES Coderz Newsletter
 Read Issues
 
 - [Nov](/2021/Nov/index.md)
+- [Dec](/2021/Dec/index.md)
+
