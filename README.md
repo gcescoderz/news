@@ -3,9 +3,9 @@
 Welcome to GCES Coderz Newsletter
 
 
-### This Month
+### This Month                                             
 
-**Read Issues**
+**Read Issues**                                                         
 
 - [Week 1](/2021/Nov/week-1.md)
 - [Week 2](/2021/Nov/week-2.md)
@@ -14,7 +14,7 @@ Welcome to GCES Coderz Newsletter
 
 ### This Year
 
-Read Issues
+**Read Issues**
 
 - [Nov](/2021/Nov/index.md)
 - [Dec](/2021/Dec/index.md)
