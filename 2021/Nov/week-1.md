@@ -36,7 +36,7 @@
 - Newsletter Head - S.Tamil Arasu
 - Blogging Head - B.Reshma
 - Competitive Programming Head - S.Kowsalya
-- Elegance of Pentesting Head - K.Pavithra
+- Elegance of Eloquence  Head - K.Pavithra
 - Industrialism Head - S.Niranjana
 
 

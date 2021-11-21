@@ -35,3 +35,4 @@
 - The end of the meeting head gave some basic scopes of the club.
 - Head asked about the 1. difficulties of the  team members ?, 2.How  organize the club in more useful and fun way ?
 - The team members gave their feedback about the club, And gave a new ideas for club  development .
+
