@@ -30,10 +30,10 @@ Hope you all good!!!!
 
 
 - This  meeting should be held on  Nov  20 at  6-30PM by **Club Head Saran mahadev T** through Google Meet.
-- From the begining the Club  head  gave a intro speech about the event and  asked  about the team members how the sessions are going .Followed by  every team Heads   introduce them  self and gave their report speech.
-- First **Competitive programming Head  Kowsalya S** explained  her work in the team , how she lead the team and which type of resources does she share. She Choosed  **Muthu Selvam J** as Co-head.
+- From the beginning the Club  head  gave a intro speech about the event and  asked  about the team members how the sessions are going .Followed by  every team Heads   introduce them  self and gave their report speech.
+- First **Competitive programming Head  Kowsalya S** explained  her work in the team , how she lead the team and which type of resources does she share. She Chose **Muthu Selvam J** as Co-head.
 - Followed by **Blogging  Head Reshma B** shared about her Blog team works and how they update the blogs in the website ,then she introduced   **Yashwanth K** as Co-head
-- Next  **Elegance of Eloquence Head Pavithra K** gave her report speech about the team and gave some instruction about how to speek without mistake .she choosed  **Selva Geetha S** as Co-head.
+- Next  **Elegance of Eloquence Head Pavithra K** gave her report speech about the team and gave some instruction about how to speek without mistake .she chose  **Selva Geetha S** as Co-head.
 - Then  **Industrilism Head  Niranjana S** shared her  experince about passed week  and what  type of  stuffs she share in  discord which is useful for people to creating a program.She introduced **Melvin Christoper K** as Co-head.
 - Next **News Letter  Head Tamil Arasu S** explained about the working principle of news letter,how they collect the news,how they issue the news and ect.. Then he prefered  **Aslam Sujath A** as Co-head.
 - Followed by  **Discard Co-ordinator Anubker Cherish S.M** shared  about how  Discard is working , how to improve the  knlowdge and how to improve new bots on discord .He asked the club members to gave some ideas for improve the Discard Server.Then he selected   **Kriuthika N**  as Co-head.
@@ -41,7 +41,7 @@ Hope you all good!!!!
 - Next **App Development  Head Siva Prasad A.V** shared about  how the team members worked  and which type of activities he gave the team members .He  Introduced  **Mohammed Harrish A** as Co-head for App Development
 - Followed by **Artificial Intelligence  Head Magendran P** explained about how the team members worked  and which type of events that he conducted for the team members.He prefered **Gokulakrishnan M** as Co-head.
 - Then **Data Science Head Ajith N** spoke about him works  at  passed weeks  with there team members and explained which type of work they did. He selected  **Sivasankar S**  as Co-head .
-- Next **Hacking and Pentesting Head Rajkumar A** spoke  about their team members  works  and shared the details about their  activities at  passed weeks.He choosed  **Harshan V** as Co-head.
+- Next **Hacking and Pentesting Head Rajkumar A** spoke  about their team members  works  and shared the details about their  activities at  passed weeks.He chose  **Harshan V** as Co-head.
 - Followes by **Web Development  Head Vignesh S** shared about what he can do for the team,what the team members can do for their studies  and explained  which type of small project they do. 
 - Atlast  **Cloud computing Head Saran Mahadev T** explained the work details of the team,which type of languages they read for the club and told about their music player mini project.He prefered **Karthika V** and  **Sabarinathan S** as Co-head of CC.
 - Finally Club Head gave him conclusion speech.He thanked all the members for attended the meeting.
