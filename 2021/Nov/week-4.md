@@ -9,4 +9,6 @@
 - Also explained in detail about how to apply for the externship program.
 - The club members clarified their doubts and apply for the program.
 - Based on some qualification github select the students for the externship program.
-- The student are waited egearly for the externship program.
+- The student are egearly waited  for the externship program.
+
+###  
