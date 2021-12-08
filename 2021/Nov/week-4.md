@@ -21,5 +21,5 @@
 
 ​               This is special mention for **Blogging Team Members** who is  done a great job for Blogging in Gcescoderz. let's see what happened in the blogging team .Blog  team members first of all send  email to the club members to submit their blogs .The club members submit their blogs through mail in the form of word or PDF document.  Blogging team collected the Blogs and uploaded that in **hashnode.com** .Every day they  uploaded the  blogs in website. Also gave the notification to the the club members through Discard. This is the working of blogging team. We congratulate the blog team members for their wonderful work and keep going on guys. 
 
-LINK FOR GCESCODERZ BLOGS:https://gcescoderz.hashnode.dev/learn-python-programming-or-best-resources
+LINK FOR GCESCODERZ BLOGS :     https://gcescoderz.hashnode.dev
 
