@@ -21,7 +21,7 @@ Welcome to GCES Coderz Newsletter
 
 ### last Year
 
-**Read Issue **
+**Read Issues**
 
 - [2021](/2021/index.md)
 
