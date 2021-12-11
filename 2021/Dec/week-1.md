@@ -20,7 +20,7 @@
 - All heads made information about their team activities and status of team members . 
 - Finally Club head instructed all heads to improve the status of team members . 
 
- ### CERTIFICATION WORK: 
+###  CERTIFICATION WORK: 
 
 <img src="https://i.imgur.com/IYKMy7H.jpg" alt="github intro" style="zoom:30%;"/>
 
