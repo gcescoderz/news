@@ -42,8 +42,8 @@ Hope you all good!!!!
 - Followed by **Artificial Intelligence  Head Magendran P** explained about how the team members worked  and which type of events that he conducted for the team members.He prefered **Gokulakrishnan M** as Co-head.
 - Then **Data Science Head Ajith N** spoke about him works  at  passed weeks  with there team members and explained which type of work they did. He selected  **Sivasankar S**  as Co-head .
 - Next **Hacking and Pentesting Head Rajkumar A** spoke  about their team members  works  and shared the details about their  activities at  passed weeks.He chose  **Harshan V** as Co-head.
-- Followes by **Web Development  Head Vignesh S** shared about what he can do for the team,what the team members can do for their studies  and explained  which type of small project they do. 
-- Atlast  **Cloud computing Head Saran Mahadev T** explained the work details of the team,which type of languages they read for the club and told about their music player mini project.He prefered **Karthika V** and  **Sabarinathan S** as Co-head of CC.
+- Followed by **Web Development  Head Vignesh S** shared about what he can do for the team,what the team members can do for their studies  and explained  which type of small project they do. 
+- Then  **Cloud computing Head Saran Mahadev T** explained the work details of the team,which type of languages they read for the club and told about their music player mini project.He prefered **Karthika V** and  **Sabarinathan S** as Co-head of CC.
 - Finally Club Head gave him conclusion speech.He thanked all the members for attended the meeting.
 - He thanked all the heads for presented their report speech and appreciated for their wonderful work.
 - He told about that the future club events should be conducted in offline mode,what type of events is conducted , how the events is useful to the members and etc..
