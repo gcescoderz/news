@@ -1,4 +1,4 @@
-- [HOME](git/README.md)
+- [HOME](/README.md)
 - [2021](2021/index)
   - [Nov](2021/Nov/index)     
     - [Week 1](/2021/Nov/week-1.md)
