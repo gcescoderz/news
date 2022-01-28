@@ -2,7 +2,7 @@
 
 ### CLUB INTRO: 
 
-<img src="https://i.imgur.com/9qOJJ8z.jpg" alt="github intro" style="zoom:70%;"/>
+<img src="https://i.imgur.com/9qOJJ8z.jpg" alt="github intro" style="zoom:80%;"/>
 
 - Club induction meeting was conducted for first year CSE department students. 
 - This meeting has been organized by Club Head and Event Coordinator on 03.12.2021in First year CSE class room . 
@@ -12,7 +12,7 @@
 
 ###  TEAM HEAD'S MEETING: 
 
-<img src="https://i.imgur.com/zMTSPbi.jpg" alt="github intro" style="zoom:70%;"/>
+<img src="https://i.imgur.com/zMTSPbi.jpg" alt="github intro"/>
 
 - This is a usual meeting for the Team Heads . 
 - It was conducted on 04.12.2021 in Third year CSE classroom. 
@@ -21,8 +21,6 @@
 - Finally Club head instructed all heads to improve the status of team members . 
 
 ###  CERTIFICATION WORK: 
-
-<img src="https://i.imgur.com/IYKMy7H.jpg" alt="github intro" style="zoom:30%;"/>
 
 - For Entry Level Training Program the certificate designing work has been started by Kowsalya(Competitive Programming Head). 
 - Club Head started the implementation work for certificates. 

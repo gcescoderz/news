@@ -1,8 +1,9 @@
 ### ISSUE 112021-02
 
 ### TEAM MEETING:
-
-<img src="https://i.imgur.com/Z1qhJs2.jpg" alt="meeting image " style="zoom:40%;" />
+<center>
+    <img src="https://i.imgur.com/Z1qhJs2.jpg" alt="meeting image " height="300">
+</center>
 
 - All team Heads are conducted the  meeting with their team Members with help of Event Co-Ordinator Gavaskar. S.
 - The Club Head  Saran Mahadev T monitored  the events.
@@ -26,7 +27,9 @@
 
 ### Github Introduction Workshop:
 
-<img src="https://i.imgur.com/lt1Kfhn.jpg" alt="github intro" style="zoom:35%;" />
+<center>
+    <img src="https://i.imgur.com/lt1Kfhn.jpg" alt="github intro" />
+</center>
 
 - This workshop conducted on Nov 12,2021 by Club Head  Saran Mahadev .T  through Google Meet.
 - He explained about Basic of Github,how to use Github ,basic comments in Github with online demonstrations  and examples.

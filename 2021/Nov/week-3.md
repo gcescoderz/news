@@ -6,7 +6,9 @@ Hope you all good!!!!
 
 ### TEAM HEAD'S  MEEETING:
 
-<img src="https://i.imgur.com/zo9ufx6.jpg" alt="github intro" style="zoom:45%;"/>
+<center>
+  <img src="https://i.imgur.com/zo9ufx6.jpg" alt="github intro" style="zoom:45%;"/>
+</center>
 
 - **Overall team Head Saran Mahadev T** conducted the meeting with all Domain  Heads and  Common  team Heads with the help of Event  Co-ordinator  on Nov 16.
 

@@ -2,14 +2,16 @@
 
 ### Foundation
 
-<img src="https://i.imgur.com/qUnp4gs.jpg" alt="logo" style="zoom: 25%;" />
+<center>
+    <img src="https://i.imgur.com/qUnp4gs.jpg" alt="logo" style="zoom: 25%;" />
+</center>
 
 - The Gces Coderz Club was inagurated by Mrs.P.Vanitha Muthu (HOD of CSE Dept.) and DR.S.Nagarajan incharge of the club and the initiative was proposed by Saran Mahadev T.
 - This club was started for the welfare of students to explore their knowledge and thoughts for their future world.
 
 ### Domain Awareness Meeting[e0.0.1]:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dXFoIZOPOXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/dXFoIZOPOXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - All Team Heads has been introduced to all the Team Members.
