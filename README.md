@@ -20,11 +20,5 @@ Welcome to GCES Coderz Newsletter
 - [Feb](/2022/Feb/index.md)
 - [Mar](2022/Mar/index.md)
 
-### last Year
-
-**Read Issues**
-
-- [2021](/2021/index.md)
-
 
 
